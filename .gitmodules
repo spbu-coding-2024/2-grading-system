@@ -73,3 +73,6 @@
 [submodule "2-madarch1tect"]
 	path = 2-madarch1tect
 	url = git@github.com:spbu-coding-2024/2-madarch1tect.git
+[submodule "2-vlapugb"]
+	path = 2-vlapugb
+	url = git@github.com:spbu-coding-2024/2-vlapugb.git
