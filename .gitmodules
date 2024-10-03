@@ -70,3 +70,6 @@
 [submodule "2-MickeyPashaev"]
 	path = 2-MickeyPashaev
 	url = git@github.com:spbu-coding-2024/2-MickeyPashaev.git
+[submodule "2-madarch1tect"]
+	path = 2-madarch1tect
+	url = git@github.com:spbu-coding-2024/2-madarch1tect.git
