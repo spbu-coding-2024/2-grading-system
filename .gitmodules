@@ -52,3 +52,6 @@
 [submodule "2-d031273"]
 	path = 2-d031273
 	url = git@github.com:spbu-coding-2024/2-d031273.git
+[submodule "2-ilyamaltsev05"]
+	path = 2-ilyamaltsev05
+	url = git@github.com:spbu-coding-2024/2-ilyamaltsev05.git
