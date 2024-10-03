@@ -58,3 +58,6 @@
 [submodule "2-g4rry1"]
 	path = 2-g4rry1
 	url = git@github.com:spbu-coding-2024/2-g4rry1.git
+[submodule "2-DaryaNechaeva"]
+	path = 2-DaryaNechaeva
+	url = git@github.com:spbu-coding-2024/2-DaryaNechaeva.git
