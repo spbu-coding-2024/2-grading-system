@@ -67,3 +67,6 @@
 [submodule "2-Nicholas-uni"]
 	path = 2-Nicholas-uni
 	url = git@github.com:spbu-coding-2024/2-Nicholas-uni.git
+[submodule "2-MickeyPashaev"]
+	path = 2-MickeyPashaev
+	url = git@github.com:spbu-coding-2024/2-MickeyPashaev.git
