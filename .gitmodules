@@ -61,3 +61,6 @@
 [submodule "2-DaryaNechaeva"]
 	path = 2-DaryaNechaeva
 	url = git@github.com:spbu-coding-2024/2-DaryaNechaeva.git
+[submodule "2-XRenso"]
+	path = 2-XRenso
+	url = git@github.com:spbu-coding-2024/2-XRenso.git
