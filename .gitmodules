@@ -16,3 +16,6 @@
 [submodule "2-Drenger"]
 	path = 2-Drenger
 	url = git@github.com:spbu-coding-2024/2-Drenger.git
+[submodule "2-Stepiiiiiiik"]
+	path = 2-Stepiiiiiiik
+	url = git@github.com:spbu-coding-2024/2-Stepiiiiiiik.git
