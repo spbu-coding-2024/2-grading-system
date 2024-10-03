@@ -4,3 +4,6 @@
 [submodule "2-pepeclub"]
 	path = 2-pepeclub
 	url = git@github.com:spbu-coding-2024/2-pepeclub.git
+[submodule "2-lev666"]
+	path = 2-lev666
+	url = git@github.com:spbu-coding-2024/2-lev666.git
