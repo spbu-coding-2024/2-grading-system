@@ -55,3 +55,6 @@
 [submodule "2-ilyamaltsev05"]
 	path = 2-ilyamaltsev05
 	url = git@github.com:spbu-coding-2024/2-ilyamaltsev05.git
+[submodule "2-g4rry1"]
+	path = 2-g4rry1
+	url = git@github.com:spbu-coding-2024/2-g4rry1.git
