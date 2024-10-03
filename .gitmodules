@@ -64,3 +64,6 @@
 [submodule "2-XRenso"]
 	path = 2-XRenso
 	url = git@github.com:spbu-coding-2024/2-XRenso.git
+[submodule "2-Nicholas-uni"]
+	path = 2-Nicholas-uni
+	url = git@github.com:spbu-coding-2024/2-Nicholas-uni.git
