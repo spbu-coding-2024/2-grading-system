@@ -121,3 +121,6 @@
 [submodule "2-Egorkayka"]
 	path = 2-Egorkayka
 	url = git@github.com:spbu-coding-2024/2-Egorkayka.git
+[submodule "2-Galay-Nastya"]
+	path = 2-Galay-Nastya
+	url = git@github.com:spbu-coding-2024/2-Galay-Nastya.git
