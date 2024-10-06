@@ -130,3 +130,6 @@
 [submodule "2-neepii"]
 	path = 2-neepii
 	url = git@github.com:spbu-coding-2024/2-neepii.git
+[submodule "2-MaksimGSI"]
+	path = 2-MaksimGSI
+	url = git@github.com:spbu-coding-2024/2-MaksimGSI.git
