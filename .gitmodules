@@ -145,3 +145,6 @@
 [submodule "2-desiredeternity"]
 	path = 2-desiredeternity
 	url = git@github.com:spbu-coding-2024/2-desiredeternity.git
+[submodule "2-Belyaev-Alexander"]
+	path = 2-Belyaev-Alexander
+	url = git@github.com:spbu-coding-2024/2-Belyaev-Alexander.git
